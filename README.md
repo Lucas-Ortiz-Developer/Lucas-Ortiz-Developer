@@ -1,5 +1,5 @@
 ## Olá pessoal, sejam bem vindos ao meu perfil do Github!
-- Meu nome é Lucas Ortiz! Sou DevOps Engineer e curso Engenharia de Software!
+- Meu nome é Lucas Ortiz! Sou Inside Sales e curso Engenharia de Software!
 
 ## Sobre mim
 
